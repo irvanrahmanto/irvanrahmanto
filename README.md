@@ -2,8 +2,8 @@
 
 Introduce my name is **Irvan Naufali Rahmanto**.\
 
-- 🔭 I’m currently working on Hana Bank as a **Developer IT Trainee**
-- 🌱 I’m currently learning everything that related in product developement (web-dev or mobile)
+- 🔭 I’m currently working on Hana Bank as a **Software Developer**
+- 🌱 I’m currently learning everything that related in product and apps developement (web-dev or mobile)
 - 👯 I have knowledge related to Information Technology, which is provided by [certification from google](https://www.coursera.org/account/accomplishments/verify/P5XT4TSRVKVV)
 - 📫 How to reach me: If you are interested in getting to know me, kindly follow my [Linkedin](https://www.linkedin.com/in/irvanrahmanto/) profile
 
