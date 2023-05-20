@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 Welcome to my Github! Introduce my name is **Irvan Naufali Rahmanto** I'm a Software Developer with 1+ years experience 👨🏻‍💻
+🌱 Welcome to my Github! Introduce my name is **Irvan Naufali Rahmanto** I having 2 years working experience in IT Industry & Software Development 👨🏻‍💻
 🔭 I'm currently working as **Frontend Software Engineer**
 📫 How to reach me: If you are interested in getting to know me, let's connet on [Linkedin](https://www.linkedin.com/in/irvanrahmanto/) profile
 
