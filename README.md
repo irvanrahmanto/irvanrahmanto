@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱 Welcome to my Github! Introduce my name is **Irvan Naufali Rahmanto** I having 2 years working experience in IT Industry & Software Development 👨🏻‍💻
-🔭 I'm currently working as **Frontend Software Engineer**
-📫 How to reach me: If you are interested in getting to know me, let's connet on [Linkedin](https://www.linkedin.com/in/irvanrahmanto/) profile
+🌱 Welcome to my Github! Introduce my name is **Irvan Naufali Rahmanto** I having 2 years working experience in IT Industry & Software Development 👨🏻‍💻&ensp;
+🔭 I'm currently working as **Frontend Software Engineer** &ensp;
+📫 How to reach me: If you are interested in getting to know me, let's connet on [Linkedin](https://www.linkedin.com/in/irvanrahmanto/) profile &ensp;
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Firvanrahmanto%2Firvanrahmanto&label=MY%20VISITORS&labelColor=%23555555&countColor=%23F0B354" />
 
