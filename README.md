@@ -2,7 +2,7 @@
 
 🌱 Welcome to my Github! Introduce my name is **Irvan Naufali Rahmanto** I having 2 years working experience in IT Industry & Software Development 👨🏻‍💻 <br/>
 🔭 I'm currently working as **Frontend Software Engineer** <br/>
-📫 How to reach me: If you are interested in getting to know me, let's connet on [Linkedin](https://www.linkedin.com/in/irvanrahmanto/) profile <br/>
+📫 How to reach me: If you are interested in getting to know me, let's connet on my [linkedin](https://www.linkedin.com/in/irvanrahmanto/) profile <br/>
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Firvanrahmanto%2Firvanrahmanto&label=MY%20VISITORS&labelColor=%23555555&countColor=%23F0B354" />
 
@@ -15,7 +15,7 @@
 
 &ensp;
 
-## 👨🏻‍💻 Technologies
+## 🔧 Technologies Stack
 
 &ensp;
 <a href="https://react.dev/"><img style="vertical-align: middle;" alt="React" src="./Assets/react.png" height=28></a>&ensp;
