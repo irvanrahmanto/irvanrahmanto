@@ -3,7 +3,7 @@
 👋 Welcome to my Github! <br/>
 🌱 Introduce my name is **Irvan Naufali Rahmanto** I'm a Software Engineer <br/> 👨🏻‍💻 I love to solve problems with engineering stuff, also have high curiosity to explore new things!
 <br/>
-🔭 I'm currently working as **Frontend Software Engineer** <br/>
+🔭 I'm currently working as **Software Engineer** <br/>
 📫 How to reach me: If you are interested in getting to know me, let's connet on my [linkedin](https://www.linkedin.com/in/irvanrahmanto/) profile. see ya!<br/>
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Firvanrahmanto%2Firvanrahmanto&label=MY%20VISITORS&labelColor=%23555555&countColor=%23F0B354" />
